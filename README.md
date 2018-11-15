@@ -1,4 +1,4 @@
-# 3D_GAN-model-with-tensorflow-
+# 3D_GAN-model-with-tensorflow
 A tensorflow implementation of VAE_3D_GAN
 ## Instructions<br>
 &#8195;1.Implement the tensorflow on the VAE_GAN structure of the original text. The training picture is actually the coordinate value. In order to speed up the training process, the picture is first made into tfrecord format.<br>
